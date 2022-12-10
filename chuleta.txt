@@ -1,0 +1,3 @@
+ng serve -o (para arrancar servidor web)
+npm install -g json-server (para instalar el servidor json)
+json-server --watch db.json (para arrancar el json server)

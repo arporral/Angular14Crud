@@ -1,0 +1,59 @@
+{
+  "productList": [
+    {
+      "productName": "asdfadsf",
+      "category": "Vegetables",
+      "freshness": "Refurbished",
+      "price": 451432,
+      "comment": "rafgasf",
+      "date": "2022-11-03T23:00:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "asdfadsf",
+      "category": "Vegetables",
+      "freshness": "Refurbished",
+      "price": 451432,
+      "comment": "rafgasf",
+      "date": "2022-11-03T23:00:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "asdfaf",
+      "category": "Electronic",
+      "freshness": "Second Hand",
+      "price": 451,
+      "comment": "fasdfa",
+      "date": "2022-11-24T23:00:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "fasfads",
+      "category": "Electronic",
+      "freshness": "Second Hand",
+      "price": 444,
+      "comment": "fasdf",
+      "date": "2022-11-25T23:00:00.000Z",
+      "id": 4
+    },
+    {
+      "productName": "productillo de prueba",
+      "category": "Vegetables",
+      "freshness": "Brand New",
+      "price": 99.99,
+      "comment": "no creo que valga mucho",
+      "date": "2023-03-08T23:00:00.000Z",
+      "id": 5
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
